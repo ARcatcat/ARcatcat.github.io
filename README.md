@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# 游戏名称
 
-You can use the [editor on GitHub](https://github.com/ARcatcat/ARcatcat.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ARcatcat养猫游戏
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 游戏简介
 
-### Markdown
+## 游戏背景
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+通过AR的技术实验虚拟养猫技术，不用花费精力和钱就能同样获得养猫的乐趣
 
-```markdown
-Syntax highlighted code block
+## 游戏操作
 
-# Header 1
-## Header 2
-### Header 3
+> TODO
 
-- Bulleted
-- List
+# gif动画
 
-1. Numbered
-2. List
+![春哥变姚明](gif/test.gif)
 
-**Bold** and _Italic_ and `Code` text
+# [3分钟视频网址](https://www.bilibili.com/video/av61434)
 
-[Link](url) and ![Image](src)
-```
+# 游戏亮点
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. 好玩
+2. 好玩
+3. 好玩
+4. 好玩
+5. 好玩
 
-### Jekyll Themes
+# 团队简介
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ARcatcat/ARcatcat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* 何嘉敏、胡浚楠：负责编辑代码和代码的优化
+* 侯潇芮、洪韵宜：负责场景的搭建和模型优化
+* 朱明杰：负责游戏的测试和优化
 
-### Support or Contact
+# 游戏设计文档链接
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TODO
+
+# 游戏下载链接
+
+[苏喂苏喂](https://www.kuaishou.com/)
