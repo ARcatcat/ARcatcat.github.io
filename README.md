@@ -34,7 +34,7 @@ ARcatcat养猫游戏
 
 # 3分钟视频网址
 
-[挤需体验三番钟](https://www.bilibili.com/video/av61434)
+[挤需体验三番钟](https://v.youku.com/v_show/id_XMzY4OTc4OTg1Ng==.html)
 
 # 游戏亮点
 
