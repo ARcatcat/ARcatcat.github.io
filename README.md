@@ -74,8 +74,7 @@ ARcat养猫游戏
 
 # 3分钟视频网址
 
-最新炫酷BGM的视频还在审核中
-[挤需体验三番钟](https://v.youku.com/v_show/id_XMzY4OTc4OTg1Ng==.html)
+[挤需体验三番钟](https://v.youku.com/v_show/id_XMzY5MzgyNTEwMA==.html?spm=a2h3j.8428770.3416059.1)
 
 # 游戏亮点
 
