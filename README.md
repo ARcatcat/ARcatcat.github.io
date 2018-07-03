@@ -93,7 +93,8 @@ ARcat养猫游戏
 
 # 游戏设计文档链接
 
-TODO
+[设计文档点我](https://github.com/ARcatcat/ARcatcat.github.io/blob/master/%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92%E6%96%87%E6%A1%A3.docx)
+
 
 # 游戏下载链接
 
